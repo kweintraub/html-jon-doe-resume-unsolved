@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Katie Weintraub's Resume</title>
+  </head>
+  <body>
+    <h1>Katie Weintraub</h1>
+    <h2>Talented Frontend developer</h2>
+    <img
+      src="./assets/avatars/fake_person.jpg"
+      alt="Katie Weintraub's Avatar"
+    />
+    <h2>About Me</h2>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas ratione
+      excepturi molestiae dolor nemo corrupti laudantium facere accusamus
+      assumenda est quaerat praesentium dolores eius officiis, at error fugiat
+      unde qui, officia aut? Aliquam explicabo, ipsa voluptatum cum dolorem quas
+      eligendi. Ad dolorem nesciunt natus omnis, praesentium ab ullam sunt
+      exercitationem!
+    </p>
+    <h2>My Skills</h2>
+    <ol>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>React</li>
+      <li>Node.js</li>
+    </ol>
+    <h2>Hobbies</h2>
+    <ul>
+      <li>Cross stitching</li>
+      <li>Knitting</li>
+      <li>Magic Tricks</li>
+      <li>Rock Climbing</li>
+    </ul>
+    <h2>Contact Me</h2>
+    <table>
+      <tr>
+        <td>Discord:</td>
+        <td>katieweintraub_95360</td>
+        <td>LinkedIn:</td>
+        <td>
+          <a
+            href="https://www.linkedin.com/in/katie-weintraub/"
+            target="_blank"
+          ></a>
+        </td>
+        <td>Email:</td>
+        <td><a href="mailto:katie.a.weintraub@gmail.com"></a></td>
+        <td>Github:</td>
+        <td><a href="https://github.com/kweintraub" target="_blank"></a></td>
+      </tr>
+    </table>
+  </body>
+</html>
